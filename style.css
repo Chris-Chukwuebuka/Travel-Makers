@@ -45,11 +45,6 @@ outline: none;
  
 
 /* ==for responsive device ==== */
-@media (max-width:320px) {
-    .king {
-        width: 200px;
-    }
-}
 @media (min-width:992px) {
    
     .navbar-light{
@@ -75,13 +70,6 @@ outline: none;
 
 
 /* ======= About section ========= */
-@media (max-width:800px) {
-    .king{
-        max-width: fit-content;
-    }
-}
-
-
 .about-img {
     width: 100%;
 }
